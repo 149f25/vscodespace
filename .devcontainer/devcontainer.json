@@ -40,6 +40,6 @@
     // "remoteUser": "root"
   },
   "postCreateCommand": {
-    "setup": "sh .devcontainer/setup.sh"
+    "setup": "bash .devcontainer/setup.sh"
   }
 }
