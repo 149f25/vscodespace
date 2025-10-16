@@ -18,4 +18,7 @@
   "python.testing.unittestEnabled": false,
   "terminal.integrated.allowChords": false,
   "workbench.tree.indent": 16,
+  "chat.disableAIFeatures": true,
+  "chat.agent.enabled": false,
+  "editor.rulers": [100]
 }
