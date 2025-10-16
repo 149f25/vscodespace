@@ -21,5 +21,7 @@
   "chat.disableAIFeatures": true,
   "chat.agent.enabled": false,
   "editor.rulers": [100],
-  "python.defaultInterpreterPath": ".venv/bin/python"
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.terminal.activateEnvironment": true
 }
